@@ -1,0 +1,21 @@
+.button {
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+
+.newuser{ 
+    padding: 15px 30px;
+    background-color: #33B5E5
+}
+
+
+.existinguser{ 
+    padding: 25px 30px;
+    background-color: #33B5E5
+}
