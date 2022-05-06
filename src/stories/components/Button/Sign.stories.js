@@ -7,3 +7,4 @@ export default {
 
 export const SignIn = () => <Button variant='signin'>Sign In</Button>
 export const SignUp = () => <Button variant='signup'>Sign Up</Button>
+export const Submit = () => <Button variant='submit'>Submit</Button>

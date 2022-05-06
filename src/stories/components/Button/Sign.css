@@ -8,12 +8,17 @@
     cursor: pointer;
 }
 
-.signin{ 
+.signin {
     background-color: #33B5E5;
     padding: 15px 100px;
 }
 
-.signup{ 
+.signup { 
     padding: 15px 50px;
     background-color: #33B5E5
+}
+
+.submit {
+    background-color: #33B5E5;
+    padding: 15px 70px;
 }

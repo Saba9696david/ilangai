@@ -8,3 +8,4 @@ export default {
 
 export const User = () => <Input placeholder='Enter your username' />
 export const Password = () => <Input placeholder='Enter your password' />
+export const Email = () => <Input placeholder='Email id' />
