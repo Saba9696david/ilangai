@@ -1,24 +1,20 @@
-.button {
-    border: none;
-    color: white;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 20px;
-    cursor: pointer;
-}
-
 .signin {
     background-color: #33B5E5;
     padding: 15px 100px;
 }
 
 .signup { 
+    background-color: #33B5E5;
     padding: 15px 50px;
-    background-color: #33B5E5
 }
 
 .submit {
     background-color: #33B5E5;
     padding: 15px 70px;
+}
+
+.fb {
+    background-color: 	#4285F4;
+    height: 70px;
+    padding-right: 50px;
 }
