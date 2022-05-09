@@ -1,0 +1,49 @@
+.dot {
+    height: 25px;
+    width: 25px;
+    background-color: rgb(55, 97, 233);
+    border-radius: 50%;
+    display: inline-block;
+    animation: scaling 2.5s ease-in-out infinite;
+    color: rgb(46, 55, 179);
+  }
+  
+  @keyframes scaling {
+    0%, 100%{
+      transform:scale(0.2);
+      background-color:rgb(228, 28, 184);
+    }
+  
+    40%{
+      transform: scale(1);
+    }
+  
+    50%{
+      transform:scale(1);
+      background-color:rgb(30, 214, 70);
+    }
+  }
+  
+  span:nth-child(0){
+    animation-delay:0s;
+  }
+  
+  span:nth-child(1){
+    animation-delay:0.2s;
+  }
+  
+  span:nth-child(2){
+    animation-delay:0.4s;
+  }
+  
+  span:nth-child(3){
+    animation-delay:0.6s;
+  }
+  
+  span:nth-child(4){
+    animation-delay:0.8s;
+  }
+  
+  span:nth-child(5){
+    animation-delay:1s;
+  }
