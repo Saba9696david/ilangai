@@ -1,7 +1,7 @@
 import React from 'react' 
-import FacebookIcon from '@material-ui/icons/Facebook'
-import KeyboardVoiceIcon from '@material-ui/icons/KeyboardVoice';
-import ChatIcon from '@material-ui/icons/Chat';
+import FacebookIcon from '@mui/icons-material/Facebook'
+import KeyboardVoiceIcon from '@mui/icons-material/KeyboardVoice'
+import ChatIcon from '@mui/icons-material/Chat'
 
 export default {
     title: 'Icons/Symbols'
